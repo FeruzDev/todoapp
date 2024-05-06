@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #efeeee;
+}
+
+#root {
+    min-height: 100vh;
+}
+
+.navbar-main {
+    border-bottom: 1px solid #1A324A;
+    padding: 10px 30px;
+}
+
+.navbar-main h3 {
+    color: #efeeee;
+}
+
+.page {
+    /*padding:  0 10px 20px 10px;*/
+    min-height: 100vh;
+    background: #0E1621;
+
+}
+
+.main {
+    margin-top: 20px;
+}
